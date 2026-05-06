@@ -85,7 +85,7 @@ It highlights both **technical capability (Excel, SQL, Power BI)** and **strateg
 ---
 
 ### 📬 Connect with Me  
- **Anish Kumar**  
+    **Anish Kumar**  
 📍 Bangalore, India  
 📧 [anishkumar90singh@gmail.com](mailto:anishkumar90singh@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/anish-kumar-41a9aa236)  
